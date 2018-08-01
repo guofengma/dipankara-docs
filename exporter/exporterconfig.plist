@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>excelpath</key>
+    <string>D:\Ember\Documents\github\node\docs\excel</string>
+    <key>server</key>
+    <string>D:\Ember\Documents\github\node\docs\server</string>
+    <key>client</key>
+    <string>D:\Ember\Documents\github\node\docs\client</string>
+  </dict>
+</plist>
